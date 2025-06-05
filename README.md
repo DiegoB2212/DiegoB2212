@@ -20,6 +20,8 @@
 <hr>
 <Br>
 
+<h1>Skills 👾</h1>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
@@ -36,9 +38,16 @@
   </a>
 </p>
 
+<Br>
+
+<h1>Stats 📃</h1>
+
+<p align="center">
+
 [![Diego Barrera GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoB22127&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoB2212&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
+</p>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
