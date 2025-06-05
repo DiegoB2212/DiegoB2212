@@ -18,18 +18,17 @@
 - ⚡  Fun fact: I play Video games and Running ⚽🎾🎹
 
 <hr>
-<Br>
 
 <h1>Skills 👾</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,docker,unity" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,docker,unity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
   </a>
 </p>
 <p align="center">
@@ -38,7 +37,7 @@
   </a>
 </p>
 
-<Br>
+<hr>
 
 <h1>Stats 📃</h1>
 
