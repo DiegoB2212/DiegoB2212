@@ -23,7 +23,15 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,docker,unity" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nodejs,react,vue,mysql" />
   </a>
 </p>
