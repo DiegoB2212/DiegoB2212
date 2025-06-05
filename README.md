@@ -1,16 +1,38 @@
-## Hi there 👋
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<!--
-**DiegoB2212/DiegoB2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Diego Barrera</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<Br>
+<h1>About Me! 😎</h1>
+
+- 🏫: I'm a grade High School Student.
+- 🔭: I’m currently working on many small Web projects.
+- 🌱: I’m currently learning Mobile Development. 🧠💻🤖
+- 💬: Ask me about Web Development and Game Development. 📊📈🤖🧠
+- ⚡  Fun fact: I play Video games and Running ⚽🎾🎹
+
+<hr>
+<Br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,py" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,docker,unity" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,nodejs,react,vue,mysql" />
+  </a>
+</p>
+
+[![Diego Barrera GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoB22127&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoB2212&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
