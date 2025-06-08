@@ -11,9 +11,11 @@
 <p style="text-align: justify;">
 
 🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the **Aerospace field** and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments.
+<br>
+<img align="right" alt="Coding" width="300" src="./Coding.gif">
 </p>
 
-<img align="right" alt="Coding" width="300" src="./Coding.gif">
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -109,11 +111,13 @@
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
-      <br>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
     <p align="center">
-      <a href="https://github.com/AVS1508">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+      <a href="https://github.com/Lu-1401">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lu-1401&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lu-1401&layout=compact&langs_count=8&theme=algolia"/>
       </a>
     </p>
 </details>
