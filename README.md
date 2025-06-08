@@ -1,10 +1,16 @@
+<!-- <div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div> -->
+
+<div align="center">
+   <img width=100% src="./Foto.png" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Luisa Moreno</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://github.com/arpitajana1220" alt="" /></a> </p>
+🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the **Aerospace field** and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments.
 
-🌱 I’m currently learning **WEB Development Full-Stack**
-<img align="right" alt="Coding" width="300" src="https://github.com/arpitajana1220">
-
+<img align="right" alt="Coding" width="300" src="./Coding.gif">
 
 <br>
 
