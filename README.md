@@ -12,6 +12,8 @@
   <div style="flex: 1; text-align: justify; padding-right: 20px;">
     🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the <b>Aerospace field</b> and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments. <br>
   </div>
+
+  
   <div style="flex: 1">
     <img src="./Coding.gif" alt="Coding" width="300">
   </div>
