@@ -2,33 +2,17 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div> -->
 
-<div align="center">
+<div align="center" style="margin-top: 30px;">
    <img width=100% src="./Foto.png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Luisa Moreno</h1>
 
-<div style="
-  display: flex; 
-  flex-wrap: wrap; 
-  align-items: center; 
-  justify-content: space-between;
-">
-  <div style="
-    flex: 1; 
-    text-align: justify; 
-    padding-right: 20px;
-    min-width: 250px;
-  ">
-    🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the <b>Aerospace field</b> and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: justify; padding-right: 20px;">
+    🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the <b>Aerospace field</b> and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments. <br>
   </div>
-  
-  <div style="
-    flex: 0 0 300px; 
-    display: flex; 
-    justify-content: center; 
-    margin-top: 10px;
-  ">
+  <div style="flex: 1">
     <img src="./Coding.gif" alt="Coding" width="300">
   </div>
 </div>
@@ -141,8 +125,8 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/Lu-1401/github-readme-activity-graph">
+  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Lu-1401&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
