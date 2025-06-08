@@ -8,12 +8,14 @@
 
 <h1 align="center">Hi 👋, I'm Luisa Moreno</h1>
 
-<p style="text-align: justify;">
+<div>
+  <p style="text-align: justify;">
 
-🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the **Aerospace field** and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments.
-<br>
-<img align="right" alt="Coding" width="300" src="./Coding.gif">
-</p>
+  🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the **Aerospace field** and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments.
+  <br>
+  <img align="right" alt="Coding" width="300" src="./Coding.gif">
+  </p>
+</div>
 
 
 <br>
@@ -111,9 +113,7 @@
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
+    <br/>
     <p align="center">
       <a href="https://github.com/Lu-1401">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lu-1401&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
