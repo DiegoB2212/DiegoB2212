@@ -13,7 +13,7 @@
     🌱 I am Luisa Moreno, an Electronic Engineering student with a strong interest in the development and application of technologies in the <b>Aerospace field</b> and in electronics design and innovation. I am passionate about exploring how electronic systems can contribute to advancing solutions in high-tech sectors. I seek opportunities that allow me to apply my knowledge, gain practical experience, and continue learning in dynamic and interdisciplinary environments. <br>
   </div>
 
-  
+
   <div style="flex: 1">
     <img src="./Coding.gif" alt="Coding" width="300">
   </div>
@@ -44,30 +44,19 @@
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-     alt="website" /></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/1999AZZAR"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
+
+ - 📚 I am studying German as a second language, enhancing my international communication skills.
+
+ - 🎨 I create digital character illustrations as a complementary creative activity.
+
+ - 🔍 I have knowledge in the analysis and design of logic gates.
+
+ - 🛠️ I develop printed circuit boards (PCBs), applying concepts of electronics and technical design.
+
+ - 🧠 I enjoy researching and exploring new technologies in the field of engineering.
+
+ - ⚡ I am a member of my university’s energy research group, collaborating with the IEEE student branch.
+<br/>
  </samp>
 </div>
 </details>
@@ -94,29 +83,21 @@
   <samp>
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
+    <br/>
+    <a href="https://www.facebook.com/lu.moreno.9028?mibextid=rS40aB7S9Ucbxw6v" target="blank"><img align="center"
+        src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+        alt="azzar" height="30"/></a>
+    <a href="mailto:luisamorenoalfonso@gmail.com" target="blank"><img align="center"
+        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="azzar" height="30"/></a>
+    <a href="https://www.instagram.com/lu_moreno04?igsh=MWQybzBhOHU4bHo0aA==" target="blank"><img align="center"
+        src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+        alt="azzar" height="30"/></a>
+    <a href="https://wa.me/+573158580686" target="blank"><img align="center"
+        src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="azzar" height="30"/></a>
+  </p>
+
   </samp>
 </div>
 </details>
