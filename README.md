@@ -2,7 +2,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div> -->
 
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-top: 20px;">
    <img width=100% src="./Foto.png" />
 </div>
 
