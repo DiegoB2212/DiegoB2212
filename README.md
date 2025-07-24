@@ -43,9 +43,9 @@
 
 <p align="center">
 
-[![Diego Barrera GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoB22127&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
+[![Diego Barrera GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoB22127&theme=algolia)](https://github.com/DiegoB2212/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoB2212&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoB2212&theme=algolia)](https://github.com/DiegoB2212/github-readme-stats)
 </p>
 
 <!-- RAINBOW LINE BOT -->
